@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/huynhsang/svn_repo/myproject/conf/svnserve.conf" added="2025-04-21T02:47:58.899394Z" modified="2025-04-23T16:08:13.026303Z" visited="2025-04-21T02:47:58.899394Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-04-21T02:47:58.899397Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-04-23T16:08:13.026302Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/huynhsang/svn_repo/myproject/conf/authz" added="2025-04-21T02:56:25.441747Z" modified="2025-04-28T02:50:21.308695Z" visited="2025-04-21T02:56:25.441748Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-04-21T02:56:25.441751Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-04-28T02:50:21.308694Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/huynhsang/svn_repo/myproject/README.txt" added="2025-04-21T02:57:59.738524Z" modified="2025-04-23T16:25:57.322075Z" visited="2025-04-21T02:57:59.738524Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-04-23T16:25:57.322074Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/huynhsang/my_workspace/my_local_project/file2.txt" added="2025-04-21T03:46:31.089040Z" modified="2025-04-23T16:22:53.487671Z" visited="2025-04-21T03:46:31.089040Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-04-21T03:46:31.089041Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-04-23T16:22:53.487668Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/huynhsang/my_workspace/my_local_project/file1.txt" added="2025-04-23T16:19:11.072188Z" modified="2025-04-23T16:21:41.949691Z" visited="2025-04-23T16:19:11.072188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-04-23T16:21:41.949690Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/huynhsang/my_workspace/my_local_project/sub_folter/file3.txt" added="2025-04-23T16:26:50.906397Z" modified="2025-04-23T16:26:55.269509Z" visited="2025-04-23T16:26:50.906397Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-04-23T16:26:55.269507Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/huynhsang/svn_repo/myproject/conf/passwd" added="2025-04-28T02:46:49.960227Z" modified="2025-04-28T02:46:53.522289Z" visited="2025-04-28T02:46:49.960227Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-04-28T02:46:53.522288Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

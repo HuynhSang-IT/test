@@ -1,0 +1,124 @@
+<html>
+<body style="margin: 0%;padding-bottom: 6px;flex-direction: column;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;">
+<div style="display: flex;flex-direction: row;width: 100%;position: relative;">
+<div class="sender" data-visibility-condition-action="action.query.check.myuid" data-visibility-condition-data="C8U6LQPFPGFHABA1E9TBDDOVLVAGESG0" data-visibility-if-true="visible" data-visibility-if-false="gone" data-visibility-fallback="gone" style="width: 100%;display: flex;position: relative;">
+</div>
+<div class="container" id="container" style="display: flex;flex-direction: column;flex-shrink: 0;margin-top: 0px;border-width: 0px;border-color: #d8d8d8;border-radius: 8px;background-color: #FFFFFF;position: relative;border-style: solid;width: 300px;">
+<div style="display: flex;flex-direction: row;max-width: 300px;position: relative;max-height: 192px;">
+<img src="." data-width="10" data-height="6" data-use-placeholder="false" style="width: 100%;max-width: 300px;max-height: 192px;visibility: hidden;aspect-ratio: 300/192;"/>
+<div id="bc_sender" class="click_overlay sender" data-insight-category="zalo_bank_card" data-insight-impression-timeout="5" data-click-action="action.open.inapp" data-click-data="https://bankcard-action.zalo.me?action=transfer&amp;content=00020101021138570010A00000072701270006970422011302403968567790208QRIBFTTA53037045802VN80300012com.vng.zalo0110ZABANKCARD63041564&amp;ctxt=JNBLhM3eJlIt-57DRJdkHQ.9lMkcYd1l-OzzLDmmKj9xeCukD-zpyrKZe5v_nQWpW4" data-pressed-background-color="rgba(255,255,255,0)" data-visibility-condition-action="action.query.check.myuid" data-visibility-condition-data="C8U6LQPFPGFHABA1E9TBDDOVLVAGESG0" data-visibility-if-true="visible" data-visibility-if-false="gone" data-visibility-fallback="gone" style="display: flex;width: 100%;height: 100%;position: absolute;border-radius: 8px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;flex-direction: column;">
+</div>
+<div id="bc_receiver" class="click_overlay receiver" data-insight-category="zalo_bank_card" data-insight-impression-timeout="5" data-click-action="action.open.inapp" data-click-data="https://bankcard-action.zalo.me?action=transfer&amp;content=00020101021138570010A00000072701270006970422011302403968567790208QRIBFTTA53037045802VN80300012com.vng.zalo0110ZABANKCARD63041564&amp;ctxt=JNBLhM3eJlIt-57DRJdkHQ.9lMkcYd1l-OzzLDmmKj9xeCukD-zpyrKZe5v_nQWpW4" data-pressed-background-color="rgba(255,255,255,0)" data-visibility-condition-action="action.query.check.myuid" data-visibility-condition-data="C8U6LQPFPGFHABA1E9TBDDOVLVAGESG0" data-visibility-if-true="gone" data-visibility-if-false="visible" data-visibility-fallback="gone" style="display: flex;width: 100%;height: 100%;position: absolute;border-radius: 8px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;flex-direction: column;">
+</div>
+<div class="card_wrapper" id="vw_card" data-click-action="action.zinstant.show.toast" data-click-data="{&quot;vi&quot;:&quot;Mở Zalo quét mã QR để chuyển khoản&quot;,&quot;en&quot;:&quot;Open Zalo scan QR to transfer money&quot;}" style="padding: 12px;display: flex;width: 100%;height: 100%;position: absolute;border-radius: 8px;border-bottom-left-radius: 8px;border-bottom-right-radius: 8px;flex-direction: column;background-image: url(https://res-zalo.zadn.vn/upload/media/2022/9/22/970422_BG_1663814322393_1283833.png);-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;border-width: 1px;border-color: #d8d8d8;background-size: cover;background-repeat: no-repeat;background-position: center center;">
+<div class="bank_info" style="display: flex;align-self: flex-start;flex-direction: row;align-items: center;width: 100%;position: relative;">
+<img class="bank_logo" data-width="1" data-height="1" data-scale-type="scaleAspectFit" data-use-placeholder="false" style="width: 32px;height: 32px;border-radius: 6px;flex-shrink: 0;content: url(https://res-zalo.zadn.vn/upload/media/2022/9/22/970422_LOGO_1663814322514_1283836.png);"/>
+<div style="display: flex;flex-direction: column;flex-grow: 1;margin-left: 8px;position: relative;">
+<p class="normal_text" style="max-lines: 2;color: rgba(255, 255, 255, 0.7);font-size: 14;font-weight: normal;line-height: 1.3;">
+Ngân hàng MBBank
+</p>
+</div>
+<div class="mobile_element" data-visibility-condition-action="__zinstant__.condition.platform.in" data-visibility-condition-data="[&quot;ios&quot;,&quot;android&quot;]" data-visibility-if-true="visible" data-visibility-if-false="gone" data-visibility-fallback="gone" style="flex-direction: column;flex-shrink: 0;display: flex;position: relative;">
+<div class="sender" data-visibility-condition-action="action.query.check.myuid" data-visibility-condition-data="C8U6LQPFPGFHABA1E9TBDDOVLVAGESG0" data-visibility-if-true="visible" data-visibility-if-false="gone" data-visibility-fallback="gone" style="flex-direction: column;flex-shrink: 0;display: flex;position: relative;">
+<div data-visibility-condition-data="{&quot;action&quot;:&quot;le&quot;,&quot;android&quot;:751, &quot;ios&quot;: 616}" data-visibility-condition-action="action.condition.version.zalo" data-visibility-if-true="visible" data-visibility-if-false="gone" data-visibility-fallback="gone" style="flex-direction: column;flex-shrink: 0;display: flex;position: relative;">
+<img id="btn_setting" class="ic_setting" data-click-action="action.open.highlightsetting" data-click-data="{&quot;highlightId&quot;:143,&quot;highlightType&quot;:0}" data-width="1" data-height="1" data-clickable="true" data-tint-color="white" data-scale-type="scaleAspectFit" data-use-placeholder="false" data-pressed-background-color="rgba(255,255,255,0)" style="width: 32px;height: 32px;padding: 4px;flex-shrink: 0;content: url(https://res-zalo.zadn.vn/zds/v1.0.9/zds_ic_setting_line_24.png);-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;"/>
+</div>
+<div id="btn_open_feedback" data-visibility-condition-data="{&quot;action&quot;:&quot;le&quot;,&quot;android&quot;:751, &quot;ios&quot;: 616}" data-visibility-condition-action="action.condition.version.zalo" data-visibility-if-true="gone" data-visibility-if-false="visible" data-visibility-fallback="visible" data-click-action="action.open.zinstantview.payment" data-click-data="{&quot;data&quot;:{&quot;ZInstantAPIInfo&quot;:{&quot;zinstantdata&quot;:{&quot;zinstantdata_id&quot;:&quot;templateId=13987&quot;,&quot;content_time&quot;:1744989329286,&quot;checksum&quot;:&quot;df5a9c08fcd5f1c7821185c3b42d074d&quot;,&quot;data_type&quot;:2,&quot;bundle_data&quot;:&quot;{\&quot;globalMsgId\&quot;:1744990491056,\&quot;senderId\&quot;:307413160,\&quot;bankNum\&quot;:\&quot;0240396856779\&quot;,\&quot;status_bar_style\&quot;:\&quot;light_content\&quot;,\&quot;clientMsgId\&quot;:1744990491056,\&quot;bankName\&quot;:\&quot;MB Bank\&quot;,\&quot;ownerId\&quot;:\&quot;group_541263502\&quot;}&quot;,&quot;version&quot;:1,&quot;data_url&quot;:&quot;https://zinst-stc.zdn.vn/static/3m/13987/20250418/U6emR5zlJZWuSqfNSp9eMZXvGsXJQr8rE6jjLtD9H7ftUJXcU4biIJbpPsfXT45ZJsjvCavKJJ9GKc9bTZ1YJsn2M4TNRsHoDp5LIs5pDrX3BLTJDbS&quot;}},&quot;occupyStatusBar&quot;:true,&quot;disableSlideToBack&quot;:true,&quot;typeView&quot;:3,&quot;disableBack&quot;:false}}" data-clickable="true" data-pressed-effect="none" style="justify-content: center;align-items: center;width: 32px;height: 32px;display: flex;position: relative;">
+<img class="ic_info" data-width="1" data-height="1" data-tint-color="white" data-scale-type="scaleAspectFit" data-use-placeholder="false" data-pressed-background-color="rgba(255,255,255,0)" style="width: 24px;height: 24px;padding: 4px;border-radius: 4px;background-color: #4D000000;flex-shrink: 0;content: url(https://res-zalo.zadn.vn/zds/v1.0.9/zds_ic_info_circle_solid_24.png);-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;"/>
+</div>
+</div>
+</div>
+</div>
+<div style="width: 100%;flex-grow: 1;display: flex;flex-direction: row;align-items: flex-end;position: relative;">
+<div style="display: flex;flex-direction: column;flex-grow: 1;margin-right: 4px;position: relative;">
+<p class="number_text" style="color: white;font-size: 16;max-lines: 1;font-weight: bold;line-height: 1.3;">
+0240396856779
+</p>
+<p class="normal_text pc_element html_data_i18n" data-visibility-condition-action="__zinstant__.condition.platform.in" data-visibility-condition-data="[&quot;pc&quot;, &quot;web&quot;]" data-visibility-if-true="visible" data-visibility-if-false="gone" data-visibility-fallback="gone" style="font-size: 13;color: rgba(255, 255, 255, 0.7);max-lines: 1;font-weight: normal;line-height: 1.3;">
+Quét để chuyển tiền nhanh
+<i18n data-locale="en">
+Scan to transfer money
+</i18n>
+</p>
+<p class="normal_text mobile_element html_data_i18n" data-visibility-condition-action="__zinstant__.condition.platform.in" data-visibility-condition-data="[&quot;ios&quot;,&quot;android&quot;]" data-visibility-if-true="visible" data-visibility-if-false="gone" data-visibility-fallback="gone" style="font-size: 14;color: rgba(255, 255, 255, 0.7);max-lines: 1;font-weight: normal;line-height: 1.3;">
+Bấm để chuyển tiền nhanh
+<i18n data-locale="en">
+Press to transfer money quickly
+</i18n>
+</p>
+</div>
+<div style="flex-direction: column;flex-shrink: 0;display: flex;position: relative;">
+<img class="qr qr_pc" data-scale-type="scaleAspectFit" data-use-placeholder="false" style="content: url(https://group-qr.zdn.vn/d/1/220/WwLTqh7eC4o3fbpIik8qIe2kMDN3uZLAyQvOqi7bDKpnhbZJm-GyI_6iKzR3uJzAyQzMrS3gFKBte5VQpEmuHVR1DwEs-pvOzR9GnyJvFLpplL31fuyrNfR3MC6bZMO1ojzDmA-DQWx1dWUGyj80VhBl4vhpqXnnnvrnwlJK6d4/8/1);width: 100px;height: 100px;flex-shrink: 0;border-width: 2px;border-color: rgba(255, 255, 255, 0.25);border-radius: 3px;border-style: solid;"/>
+</div>
+</div>
+</div>
+</div>
+<div class="mobile_element  " data-visibility-condition-action="__zinstant__.condition.platform.in" data-visibility-condition-data="[&quot;ios&quot;,&quot;android&quot;]" data-visibility-if-true="visible" data-visibility-if-false="gone" data-visibility-fallback="gone" style="flex-direction: column;flex-shrink: 0;display: flex;position: relative;">
+<div class="sender footer_container" data-visibility-condition-action="action.query.check.myuid" data-visibility-condition-data="C8U6LQPFPGFHABA1E9TBDDOVLVAGESG0" data-visibility-if-true="visible" data-visibility-if-false="gone" data-visibility-fallback="gone" style="flex-direction: row;display: flex;width: 100%;height: 48px;align-items: center;border-radius: 8px;border-top-left-radius: 0px;border-top-right-radius: 0px;background-color: #FFFFFF;position: relative;">
+<div id="sender_btn_save_info" class="zi_button" data-click-action="action.open.inapp" data-click-data="https://bankcard-action.zalo.me?action=save&amp;content=00020101021138570010A00000072701270006970422011302403968567790208QRIBFTTA53037045802VN80300012com.vng.zalo0110ZABANKCARD63041564&amp;sid=29923QCSOIQNTUMHIC6LFJKQJHUDV8O0" data-pressed-effect="none" data-clickable="true" style="flex-grow: 1;height: 100%;flex-direction: column;justify-content: center;align-items: center;display: flex;position: relative;">
+<p class="zi_tc_button_tertiary_neutral zi_text_small_m html_data_i18n" data-keep-font-size="true" style="font-size: 14;max-lines: 1;font-weight: medium;color: #0D0D0D;">
+Lưu tài khoản
+<i18n data-locale="en">
+Save bank account
+</i18n>
+</p>
+</div>
+<div class="zi_divider" style="width: 1px;height: 66.66%;padding-top: 8px;padding-bottom: 8px;background-color: #1a000000;display: flex;position: relative;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;">
+</div>
+<div id="sender_btn_transfer" class="zi_button" data-click-action="action.open.inapp" data-click-data="https://bankcard-action.zalo.me?action=transfer&amp;content=00020101021138570010A00000072701270006970422011302403968567790208QRIBFTTA53037045802VN80300012com.vng.zalo0110ZABANKCARD63041564&amp;ctxt=JNBLhM3eJlIt-57DRJdkHQ.9lMkcYd1l-OzzLDmmKj9xeCukD-zpyrKZe5v_nQWpW4" data-pressed-effect="none" data-clickable="true" style="flex-grow: 1;height: 100%;flex-direction: column;justify-content: center;align-items: center;display: flex;position: relative;">
+<p class="zi_tc_button_tertiary zi_text_small_m html_data_i18n" data-keep-font-size="true" style="font-size: 14;max-lines: 1;font-weight: medium;color: #0068FF;">
+Chuyển tiền
+<i18n data-locale="en">
+Transfer money
+</i18n>
+</p>
+</div>
+</div>
+<div class="receiver footer_container" data-visibility-condition-action="action.query.check.myuid" data-visibility-condition-data="C8U6LQPFPGFHABA1E9TBDDOVLVAGESG0" data-visibility-if-true="gone" data-visibility-if-false="visible" data-visibility-fallback="gone" style="flex-direction: row;display: flex;width: 100%;height: 48px;align-items: center;border-radius: 8px;border-top-left-radius: 0px;border-top-right-radius: 0px;background-color: #FFFFFF;position: relative;">
+<div id="receiver_btn_save_info" class="zi_button" data-click-action="action.open.inapp" data-click-data="https://bankcard-action.zalo.me?action=save&amp;content=00020101021138570010A00000072701270006970422011302403968567790208QRIBFTTA53037045802VN80300012com.vng.zalo0110ZABANKCARD63041564&amp;sid=29923QCSOIQNTUMHIC6LFJKQJHUDV8O0" data-pressed-effect="none" data-clickable="true" style="flex-grow: 1;height: 100%;flex-direction: column;justify-content: center;align-items: center;display: flex;position: relative;">
+<p class="zi_tc_button_tertiary_neutral zi_text_small_m html_data_i18n" data-keep-font-size="true" style="font-size: 14;max-lines: 1;font-weight: medium;color: #0D0D0D;">
+Lưu tài khoản
+<i18n data-locale="en">
+Save bank account
+</i18n>
+</p>
+</div>
+<div class="zi_divider" style="width: 1px;height: 66.66%;padding-top: 8px;padding-bottom: 8px;background-color: #1a000000;display: flex;position: relative;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;">
+</div>
+<div id="receiver_btn_transfer" class="zi_button" data-click-action="action.open.inapp" data-click-data="https://bankcard-action.zalo.me?action=transfer&amp;content=00020101021138570010A00000072701270006970422011302403968567790208QRIBFTTA53037045802VN80300012com.vng.zalo0110ZABANKCARD63041564&amp;ctxt=JNBLhM3eJlIt-57DRJdkHQ.9lMkcYd1l-OzzLDmmKj9xeCukD-zpyrKZe5v_nQWpW4" data-pressed-effect="none" data-clickable="true" style="flex-grow: 1;height: 100%;flex-direction: column;justify-content: center;align-items: center;display: flex;position: relative;">
+<p class="zi_tc_button_tertiary zi_text_small_m html_data_i18n" data-keep-font-size="true" style="font-size: 14;max-lines: 1;font-weight: medium;color: #0068FF;">
+Chuyển tiền
+<i18n data-locale="en">
+Transfer money
+</i18n>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+���`h�      h w�h w�H�׌	��   �    O^partitionKey=%28https%2Czalo.me%29,a,~FETCH,:https://zinst-stc.zdn.vn/static/3m/11845/20250418/U6emR5zlJaD2OpTOSJ9VOpXfOMnLBKv6EMjBMd5lL79rKtbZU4atIq5ZPsHYJYrZKKLXHavKBJHHGc9PTLT8JsfeTbHNRqPmD4XLLM9DS5X5LNL8DbS?data=html necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/2 200 
+date: Mon, 21 Apr 2025 00:37:19 GMT
+content-type: application/octet-stream
+content-length: 14802
+cache-control: max-age=604800000,no-transform
+last-modified: Fri Apr 18 22:34:51 ICT 2025
+expires: Fri Apr 25 22:34:51 ICT 2025
+age: 205348
+access-control-allow-origin: *
+server: ATS-5-54, 0554
+X-Firefox-Spdy: h2
+ original-response-headers server: ATS-5-54
+date: Mon, 21 Apr 2025 00:37:19 GMT
+content-type: application/octet-stream
+content-length: 14802
+cache-control: max-age=604800000,no-transform
+last-modified: Fri Apr 18 22:34:51 ICT 2025
+expires: Fri Apr 25 22:34:51 ICT 2025
+age: 205348
+access-control-allow-origin: *
+server: 0554
+X-Firefox-Spdy: h2
+ ctid 1 net-response-time-onstart 341 net-response-time-onstop 342   9�
